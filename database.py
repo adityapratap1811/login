@@ -102,3 +102,5 @@ def delete_user(user_id):
     conn.close()
     
     return affected_rows > 0
+
+#database.py
